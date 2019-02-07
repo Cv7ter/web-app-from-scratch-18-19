@@ -1,0 +1,36 @@
+*{
+    max-height: 500px;
+}
+
+main  {
+  display: flex;
+  flex-wrap: wrap;
+  margin: 80px;
+  justify-content: center;
+}
+
+main > img  {
+  margin: 0 5px 5px 0;
+}
+
+h1  {
+  font-size: 30px;
+  font-family: Arial;
+  color: black;
+  text-align: center;
+  animation-name: example;
+  animation-duration: 20s;
+}
+
+@keyframes example {
+  0%   {color: red;}
+  10%  {color: yellow;}
+  20%  {color: blue;}
+  30% {color: green;}
+  40%   {color: red;}
+  50%  {color: yellow;}
+  60%  {color: blue;}
+  70% {color: green;}
+  80%   {color: red;}
+  90%  {color: yellow;}
+  100%  {color: blue;}
