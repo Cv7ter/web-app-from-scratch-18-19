@@ -13,6 +13,7 @@ https://cv7ter.github.io/web-app-from-scratch-18-19
 
 
 Leerproces
+
 In deze week ben ik bezig geweest met de eerste API opdracht. Aan het begin was ik nog niet bekend met API en de verschillende soorten javascript. Zo ben ik veel bezig geweest met veel onderzoeken en uitproberen tot mijn website met de API werkte. Er was veel hulp bij nodig geweest door docenten en medestudenten, maar ben erdoorheen gekomen en de basis van de website staat er. Het belangrijkste is dat de API werk in de website en dat de specifieke data ingeladen wordt. Volgende week zal ik verder gaan met de pagina uitbreiden zodat er meer data op de site komt.
 
 Doel van de web-app
