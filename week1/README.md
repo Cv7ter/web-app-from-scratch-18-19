@@ -30,7 +30,7 @@ De beperkingen bij deze API is dat er niet veel data in de API zit. Er kunnen fo
 
 
 Interaction diagram
-
+https://imgur.com/a/1VWRv6a
  
 
 Wishlist
