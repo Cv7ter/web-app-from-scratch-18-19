@@ -21,7 +21,7 @@ Doel van de web-app
 De app heeft als doel om random foto’s te weergeven op de voorpagina. Er is een API gebruikt van unplash, een platform met fotoalbums erop die een API geven om de foto’s te gebruiken. Zo kan er op een foto van de pagina gedruk woren om nieuwe foto’s in te laden van dezelfde auteur. Bovenaan staat ook de naam van de auteur weergeven met de foto’s onderaan, zo wordt er een nieuwe fotocollage gemaakt.
 
 Actor diagram <br>
-https://imgur.com/a/egLFS5R
+https://imgur.com/43aFqNe
 
 Rate limit
 
@@ -30,7 +30,7 @@ De beperkingen bij deze API is dat er niet veel data in de API zit. Er kunnen fo
 
 
 Interaction diagram <br >
-https://imgur.com/a/1VWRv6a
+https://imgur.com/iIird3d
  
 
 Wishlist
